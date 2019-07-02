@@ -1,7 +1,7 @@
 
 
 # Sentiment classification using word2vec and LSTM
-Sentiment classification is a popular task in NLP. This notebook uses wor2vec representations and compares various classifiers: from the typical k-NN to the more advanced LSTM networks. For LSTMs specifically, we are interested in using both pre-trained and not pre-trained embeddings. The code is based on the works of:
+Sentiment classification is a popular task in NLP. This notebook uses wor2vec representations and compares various classifiers: from the typical k-NN to the more advanced LSTM networks. For LSTMs specifically, we are interested in using both pre-trained and not pre-trained embeddings. The code is based on the following works of:
 
 https://www.kaggle.com/ngyptr/lstm-sentiment-analysis-keras/data
 
